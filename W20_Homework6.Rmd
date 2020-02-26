@@ -1,0 +1,249 @@
+---
+title: "W20 Homework 6"
+author: "Kristi Gdanetz MacCready"
+date: "2/26/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = "~/Documents/UMBio201/Lab8")
+```
+
+# Load packages
+```{r}
+library(vegan)
+library(tidyverse)
+library(readxl)
+library(broom)
+library(cowplot)
+library(phyloseq)
+set.seed(7)
+source("miseqR.R")
+```
+
+# Import data
+
+### RDS object
+One way to distribute R-formatted data is as an .RDS object. For example: Open Lab 7, run the code in the 'Import' and 'Create phyloseq objects' sections. When you have the 'physq_obj' created and present in your global environment run the code chunk below:
+```{r eval=FALSE, include=FALSE}
+# save an RDS
+saveRDS(physq_obj, compress = TRUE,
+        file = "~/Documents/UMBio201/Lab8/physq_obj.RDS")
+```
+Clear your global environment. Any time you want to work with this saved R (phyloseq) object in the future you can skip to the import section here: 
+```{r eval=FALSE, include=FALSE}
+# import an RDS
+physq_obj <- readRDS(file = "~/Documents/UMBio201/Lab8/physq_obj.RDS")
+```
+Clear your global environment again, we will not use this object in lab today.
+
+### Sample data 
+Import sample data (all_data_indv.txt), filter for participants who consumed either of the potato starches:
+```{r}
+samples_df <- read_delim("raw_data/all_data_indv.txt", 
+                            delim = "\t", escape_double = FALSE, 
+                            trim_ws = TRUE, 
+                            col_types = cols(Sample_number = col_character(),
+                                             Bristol_numeric = col_number(),
+                                             Bristol_score = col_character(), 
+                                             pH = col_number())) %>%
+  # make all column names lower case
+  rename_all(tolower) %>% 
+  # remove duplicate sample ids
+  distinct(., sample_id, .keep_all = TRUE) %>%  
+  # subset for samples, semesters, weeks of interest 
+  filter(use_data == "yes", 
+         quantity_compliant != "no",
+         #semester != "Winter2015",
+         study_week == "week1" | study_week == "week3",
+         supplement_consumed == "BRMPS" | supplement_consumed == "LOODAT")
+
+dim(samples_df)
+n_distinct(samples_df$participant_id)
+```
+
+### Diet data
+Import the dietary information from study participants, join with sample data imported in section above. Note that after the join we have the same number of participants in the resulting data frame. The result contains the diet & sample data. 
+```{r}
+diet_df <- read_delim("raw_data/diet_data.txt", 
+                            delim = "\t", escape_double = FALSE, 
+                            trim_ws = TRUE) %>%
+  # make all column names lower case
+  rename_all(tolower) %>%
+  # use right join because we already filtered samples_df
+  right_join(samples_df, by = c("participant_id", "semester", "study_week"))
+dim(diet_df)
+n_distinct(diet_df$participant_id)
+```
+
+### Question 1 [2 pts]
+
+##### Biographical data 
+The analyses you will conduct in later sections of this assignment are going to ask for comparisons betwwen groups that require some biographical data (sex, ethnicity, diet, etc.).
+Import the lifestyle data file, format according to class conventions, review the data in each column, decide if any data curation should occur and complete that process. 
+```{r}
+bio_df <- read_delim()
+# complete code here
+```
+
+How many rows are in the resulting data frame?
+How many participants are in the resulting data frame?
+
+Join diet_df and bio_df data frames, name it bio_sam_df. What are the dimensions of the result?
+```{r}
+# join code here
+```
+
+In the code chunk below conduct the following summary statistics, and write the results in an R markdown table, or several tables if easier. 
+
+* number of males and females consuming each supplement
+* number of race/ethnicity consuming each supplement
+* average dietary fiber in males and females
+* number of participants who consumed antibiotics any time in the 3 months prior and up through the time of the study
+
+```{r}
+
+```
+
+<put table(s) here> 
+
+### Question 2 [2 pts]
+
+##### Phyloseq object 
+Imported the shared and taxonomy tables. Use these along with the bio_sam_df to create a phylseq object. 
+```{r}
+# shared code
+```
+
+```{r}
+# taxonomy code
+```
+
+```{r}
+# combine all objects 
+```
+
+How many taxa are in the resulting object? 
+How many samples are in the resulting object? 
+How many sample variables are in the resulting object?
+
+
+# Question 3 [4 pts]
+
+In individuals who consumed either type of potato starch twice a day, does richness change consistently from week 1 to week 3 across each race/ethnicity? Save plot(s). 
+```{r}
+# subset data 
+```
+
+```{r}
+# calculate richness
+```
+
+```{r}
+# plot(s)
+```
+
+```{r}
+# statistical test(s)
+```
+
+<write conclusions here> 
+
+
+# Question 4 [4 pts]
+
+Conduct an ordination using the Bray-Curtis index to determine if the communities of participants were different based on how recently they were prescribed antibiotics (<=3 mos. or >3 mos.). Do not include any data from when individuals consumed starch (week 3) in this analysis. 
+```{r}
+# data formatting 
+```
+
+```{r}
+# reads coutns + subsample
+```
+
+```{r}
+# ordination
+```
+
+```{r}
+# plot
+```
+
+```{r}
+# statistical test 
+```
+
+<write conclusions here> 
+
+
+# Question 5 [8 pts]
+Recent research has shown there is a correlation with salivary amylase activity and starch degraders in the colon. There are genetic and lifestyle variables that can correlate with salivary amylase activity. We are interested if dietary fiber (a lifestyle variable) also correlates with starch degrader abundnace. 
+
+Is there a correlation between the abundance of Ruminococcus bromii (OTU_XXX) and fiber in the diet? 
+```{r}
+# data formatting 
+# Hint: Use psmelt() to convert the phyloseq object to long-format data frame, remove as much extra information from the data frame as possible. 
+```
+
+```{r}
+# plot
+```
+
+```{r}
+# statistical test
+```
+
+<write conclusions here> 
+
+
+Does Ruminococcus bromii abundance significantly differ between any race/ethnicity?
+```{r}
+# data formatting 
+```
+
+```{r}
+# plot
+```
+
+```{r}
+# statistical test
+```
+
+<write conclusions here> 
+
+
+Is there a correlation between the abundance of Bifidobacterium faecale (OTU_XXX) and fiber in the diet? 
+```{r}
+# data formatting 
+```
+
+```{r}
+# plot
+```
+
+```{r}
+# statistical test
+```
+
+<write conclusions here> 
+
+Does Bifidobacterium faecale abundance significantly differ between any race/ethnicity?
+```{r}
+# data formatting 
+# Hint: Use psmelt() to convert the phyloseq object to long-format data frame, remove as much extra information from the data frame as possible. 
+```
+
+```{r}
+# plot
+```
+
+```{r}
+# statistical test
+```
+
+<write conclusions here> 
+
+
+-----
+end 
