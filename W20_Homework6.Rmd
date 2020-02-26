@@ -22,7 +22,9 @@ set.seed(7)
 source("miseqR.R")
 ```
 
-# Import data
+# Introduction
+
+Change author name in completed assignment. Make sure p- and r-values are recorded as comments after each statistical test. Save all plots generated today, save final version(s) of phyloseq objects as RDS files. Once completed, Knit the Rmd to HTML, check the table formatting in this final version, and upload to GitHub.
 
 ### RDS object
 One way to distribute R-formatted data is as an .RDS object. For example: Open Lab 7, run the code in the 'Import' and 'Create phyloseq objects' sections. When you have the 'physq_obj' created and present in your global environment run the code chunk below:
@@ -37,6 +39,8 @@ Clear your global environment. Any time you want to work with this saved R (phyl
 physq_obj <- readRDS(file = "~/Documents/UMBio201/Lab8/physq_obj.RDS")
 ```
 Clear your global environment again, we will not use this object in lab today.
+
+# Import data
 
 ### Sample data 
 Import sample data (all_data_indv.txt), filter for participants who consumed either of the potato starches:
@@ -59,12 +63,12 @@ samples_df <- read_delim("raw_data/all_data_indv.txt",
          study_week == "week1" | study_week == "week3",
          supplement_consumed == "BRMPS" | supplement_consumed == "LOODAT")
 
-dim(samples_df)
-n_distinct(samples_df$participant_id)
+dim(samples_df) #1166 rows, 20 cols
+n_distinct(samples_df$participant_id) #201
 ```
 
 ### Diet data
-Import the dietary information from study participants, join with sample data imported in section above. Note that after the join we have the same number of participants in the resulting data frame. The result contains the diet & sample data. 
+Import the dietary information from study participants, join with sample data imported in section above. The result contains the diet & sample data. Note that after the join we have the same number of participants in the resulting data frame.  
 ```{r}
 diet_df <- read_delim("raw_data/diet_data.txt", 
                             delim = "\t", escape_double = FALSE, 
@@ -73,8 +77,8 @@ diet_df <- read_delim("raw_data/diet_data.txt",
   rename_all(tolower) %>%
   # use right join because we already filtered samples_df
   right_join(samples_df, by = c("participant_id", "semester", "study_week"))
-dim(diet_df)
-n_distinct(diet_df$participant_id)
+dim(diet_df) #1166 rows, 23 cols
+n_distinct(diet_df$participant_id) #201
 ```
 
 ### Question 1 [2 pts]
@@ -99,7 +103,7 @@ In the code chunk below conduct the following summary statistics, and write the 
 
 * number of males and females consuming each supplement
 * number of race/ethnicity consuming each supplement
-* average dietary fiber in males and females
+* average dietary fiber and standard deviation in males and females
 * number of participants who consumed antibiotics any time in the 3 months prior and up through the time of the study
 
 ```{r}
@@ -121,6 +125,7 @@ Imported the shared and taxonomy tables. Use these along with the bio_sam_df to 
 ```
 
 ```{r}
+# format bio_sam_df
 # combine all objects 
 ```
 
@@ -180,7 +185,7 @@ Conduct an ordination using the Bray-Curtis index to determine if the communitie
 # Question 5 [8 pts]
 Recent research has shown there is a correlation with salivary amylase activity and starch degraders in the colon. There are genetic and lifestyle variables that can correlate with salivary amylase activity. We are interested if dietary fiber (a lifestyle variable) also correlates with starch degrader abundnace. 
 
-Is there a correlation between the abundance of Ruminococcus bromii (OTU_XXX) and fiber in the diet? 
+Is there a correlation between the abundance of Ruminococcus spp. and fiber in the diet? 
 ```{r}
 # data formatting 
 # Hint: Use psmelt() to convert the phyloseq object to long-format data frame, remove as much extra information from the data frame as possible. 
@@ -197,7 +202,7 @@ Is there a correlation between the abundance of Ruminococcus bromii (OTU_XXX) an
 <write conclusions here> 
 
 
-Does Ruminococcus bromii abundance significantly differ between any race/ethnicity?
+Does Ruminococcus abundance significantly differ between any race/ethnicity?
 ```{r}
 # data formatting 
 ```
@@ -213,9 +218,10 @@ Does Ruminococcus bromii abundance significantly differ between any race/ethnici
 <write conclusions here> 
 
 
-Is there a correlation between the abundance of Bifidobacterium faecale (OTU_XXX) and fiber in the diet? 
+Is there a correlation between the abundance of Bifidobacterium faecale (Otu0023519) and fiber in the diet? 
 ```{r}
 # data formatting 
+# Hint: Use psmelt() to convert the phyloseq object to long-format data frame, remove as much extra information from the data frame as possible. 
 ```
 
 ```{r}
@@ -231,7 +237,6 @@ Is there a correlation between the abundance of Bifidobacterium faecale (OTU_XXX
 Does Bifidobacterium faecale abundance significantly differ between any race/ethnicity?
 ```{r}
 # data formatting 
-# Hint: Use psmelt() to convert the phyloseq object to long-format data frame, remove as much extra information from the data frame as possible. 
 ```
 
 ```{r}
