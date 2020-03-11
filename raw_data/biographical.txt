@@ -1,0 +1,815 @@
+Participant_ID	Semester	Use_Data	Sex	Age	Race_ethnicity	Weight_kg	Height_meters	BMI	antibiotic_past_year	antibiotic_date
+U001	Winter2015	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U002	Winter2015	yes	Female	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U003	Winter2015	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U004	Winter2015	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U005	Winter2015	yes	Female	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U006	Winter2015	yes	Male	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U007	Winter2015	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U008	Winter2015	yes	Female	18	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U009	Winter2015	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U010	Winter2015	yes	Male	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U011	Winter2015	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U013	Winter2015	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U014	Winter2015	yes	Male	19	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U015	Winter2015	yes	Male	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U016	Winter2015	yes	Female	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U017	Winter2015	yes	Female	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U018	Winter2015	yes	Male	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U019	Winter2015	yes	Female	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U020	Winter2015	yes	Female	19	Black American	NA	NA	NA	unknown	unknown
+U021	Winter2015	yes	Female	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U022	Winter2015	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U023	Winter2015	yes	Female	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U024	Winter2015	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U025	Winter2015	yes	Female	19	Black American	NA	NA	NA	unknown	unknown
+U026	Winter2015	yes	Male	19	Black American	NA	NA	NA	unknown	unknown
+U027	Winter2015	yes	Female	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U028	Winter2015	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U029	Winter2015	yes	Male	20	Black American	NA	NA	NA	unknown	unknown
+U030	Winter2015	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U031	Winter2015	yes	Male	19	Other	NA	NA	NA	unknown	unknown
+U032	Winter2015	yes	Female	19	Other	NA	NA	NA	unknown	unknown
+U033	Winter2015	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U034	Winter2015	yes	Female	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U035	Winter2015	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U036	Winter2015	yes	Male	19	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U037	Winter2015	yes	Male	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U041	Fall2015	yes	Male	19	Asian or Pacific Islander	67.5	1.75	22.040816326530614	unknown	unknown
+U042	Fall2015	yes	Male	19	Caucasian/white	73.1	1.737333	24.21872294144776	unknown	unknown
+U042	Fall2015	yes	Male	19	Caucasian/white	73.1	1.737333	24.21872294144776	unknown	unknown
+U042	Fall2015	yes	Male	19	Caucasian/white	73.1	1.737333	24.21872294144776	unknown	unknown
+U042	Fall2015	yes	Male	19	Caucasian/white	73.1	1.737333	24.21872294144776	unknown	unknown
+U043	Fall2015	yes	Male	19	Asian or Pacific Islander	61.1	1.691	21.367513895004024	unknown	unknown
+U044	Fall2015	yes	Male	18	Other	85.5	1.72	28.9007571660357	unknown	unknown
+U045	Fall2015	yes	Female	19	Other	62.1	1.63	23.37310399337574	unknown	unknown
+U046	Fall2015	yes	Male	19	Caucasian/white	95.8	1.7666	30.69651389752945	unknown	unknown
+U047	Fall2015	yes	Male	21	Caucasian/white	72.2	1.711	24.66250455590242	unknown	unknown
+U048	Fall2015	yes	Female	20	Asian or Pacific Islander	76.8	1.59	30.37854515248605	unknown	unknown
+U049	Fall2015	yes	Female	19	Caucasian/white	62.2	1.621	23.671422389892683	unknown	unknown
+U050	Fall2015	yes	Female	19	Asian or Pacific Islander	63.6333	1.59466	25.023511013975053	unknown	unknown
+U051	Fall2015	yes	Female	19	Asian or Pacific Islander	81.8	1.633	30.674743099026546	unknown	unknown
+U052	Fall2015	yes	Male	20	Caucasian/white	72.8	1.807	22.295390029979337	unknown	unknown
+U053	Fall2015	yes	Female	19	Other	48.1	1.691	16.821234342875506	Yes	<=3 months ago
+U054	Fall2015	yes	Male	22	Caucasian/white	63.1	1.73	21.08323031173778	unknown	unknown
+U055	Fall2015	yes	Female	20	Caucasian/white	59.3	1.683	20.935650588581275	unknown	unknown
+U056	Fall2015	yes	Female	21	Asian or Pacific Islander	46.133	1.568	18.763747527072052	unknown	unknown
+U057	Fall2015	yes	Male	19	Caucasian/white	68.4	1.72333333333333	23.031250818402643	unknown	unknown
+U058	Fall2015	yes	Male	20	Caucasian/white	74.63	1.7763	23.652704715625127	unknown	unknown
+U059	Fall2015	yes	Female	18	Asian or Pacific Islander	49.9	1.616	19.108114400548963	Yes	<=3 months ago
+U060	Fall2015	yes	Male	18	Asian or Pacific Islander	85.6	1.857	24.822753649539255	unknown	unknown
+U061	Fall2015	yes	Female	19	Latinx or Hispanic	67.5	1.72067	22.798622059753665	unknown	unknown
+U062	Fall2015	yes	NA	NA	NA	59	1.741	19.46500274984403	unknown	unknown
+U063	Fall2015	yes	Female	18	Other	57.23	1.67	20.520635375954676	unknown	unknown
+U064	Fall2015	yes	Male	20	Caucasian/white	63.49	1.7737	20.181107464352745	unknown	unknown
+U065	Fall2015	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U066	Fall2015	yes	Female	19	Caucasian/white	59.8	1.664	21.59705528846154	unknown	unknown
+U067	Fall2015	yes	Female	19	Caucasian/white	64.4	1.62	24.538942234415483	unknown	unknown
+U068	Fall2015	yes	Male	20	Latinx or Hispanic	66.2	1.77	21.130581888984647	unknown	unknown
+U069	Fall2015	yes	Male	19	Asian or Pacific Islander	74.53	1.757	24.1427978629429	unknown	unknown
+U070	Fall2015	yes	Female	19	Asian or Pacific Islander	48.1	1.576	19.365675487644616	unknown	unknown
+U071	Fall2015	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U072	Fall2015	yes	Female	19	Caucasian/white	56.2	1.585	22.37060772820906	unknown	unknown
+U073	Fall2015	yes	Male	19	Native American	82	1.8597	23.709809808608952	unknown	unknown
+U074	Fall2015	yes	Male	19	Caucasian/white	100	1.803	30.761573503703232	unknown	unknown
+U075	Fall2015	yes	Male	19	Caucasian/white	83.1	1.823	25.005047649510477	unknown	unknown
+U076	Fall2015	yes	Female	20	Other	57.73	1.68	20.454223356009074	unknown	unknown
+U077	Fall2015	yes	Female	19	Caucasian/white	53.5	1.655	19.532497877894503	Yes	<=3 months ago
+U078	Fall2015	yes	Male	19	Latinx or Hispanic	82.5	1.75	26.93877551020408	unknown	unknown
+U080	Fall2015	yes	Male	18	Asian or Pacific Islander	57.4	1.671	20.55696481786493	unknown	unknown
+U081	Fall2015	yes	Female	19	Caucasian/white	46.5	1.53	19.864154812251698	unknown	unknown
+U082	Fall2015	yes	Female	20	Asian or Pacific Islander	41.7	1.54	17.58306628436499	unknown	unknown
+U083	Fall2015	yes	Female	19	Asian or Pacific Islander	52.13	1.65	19.14784205693297	unknown	unknown
+U084	Fall2015	yes	Male	20	Caucasian/white	72.3	1.702	24.958540515685563	unknown	unknown
+U085	Fall2015	yes	Female	21	Caucasian/white	56.8	1.56	23.339907955292567	unknown	unknown
+U086	Fall2015	yes	Male	20	Caucasian/white	86.2	1.88	24.38886373924853	unknown	unknown
+U087	Fall2015	yes	Male	19	Caucasian/white	89.2	1.816	27.047875953346658	unknown	unknown
+U088	Fall2015	yes	Female	19	Caucasian/white	63.86	1.586	25.3876526797371	unknown	unknown
+U089	Fall2015	yes	Female	18	Caucasian/white	50.1	1.5697	20.333138052684976	unknown	unknown
+U090	Fall2015	yes	Male	20	Caucasian/white	76.8	1.787	24.049835769057697	unknown	unknown
+U091	Fall2015	yes	Female	19	Other	43.3	1.596	16.998951011614245	unknown	unknown
+U092	Fall2015	yes	Female	25	Caucasian/white	73.8	1.664	26.653222078402358	Yes	<=3 months ago
+U093	Fall2015	yes	Female	19	Caucasian/white	58.4	1.573	23.602358457585876	Yes	<=3 months ago
+U094	Fall2015	yes	Female	19	Caucasian/white	81.2	1.786	25.45617337284265	unknown	unknown
+U095	Fall2015	yes	NA	NA	NA	72.97	1.6843	25.72204235103077	unknown	unknown
+U096	Fall2015	yes	Female	18	Caucasian/white	50.6	1.54266	21.26229206026941	unknown	unknown
+U097	Fall2015	yes	Female	18	Asian or Pacific Islander	47.6	1.57	19.311128240496572	unknown	unknown
+U098	Fall2015	yes	Female	20	Caucasian/white	49.4	1.55	20.56191467221644	unknown	unknown
+U099	Fall2015	yes	Male	20	Asian or Pacific Islander	52.1	1.715	17.713707723822555	unknown	unknown
+U100	Fall2015	yes	Female	19	Asian or Pacific Islander	49.9	1.59	19.73814326964914	unknown	unknown
+U101	Fall2015	yes	Female	19	Caucasian/white	57.7	1.5756	23.242555083324845	unknown	unknown
+U102	Fall2015	yes	Female	19	Caucasian/white	61.26	1.72	20.70713899405084	unknown	unknown
+U103	Fall2015	yes	NA	NA	NA	57.4	1.613	22.061912491078186	unknown	unknown
+U104	Fall2015	yes	Female	19	Caucasian/white	52.5	1.6193	20.021871587426922	unknown	unknown
+U105	Fall2015	yes	Male	18	Caucasian/white	69.167	1.71	23.6541157963134	unknown	unknown
+U106	Fall2015	yes	Male	18	Asian or Pacific Islander	62.1	1.755	20.162174008327856	unknown	unknown
+U107	Fall2015	yes	Male	19	Other	97.1	1.761	31.311258090219635	unknown	unknown
+U108	Fall2015	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U109	Fall2015	yes	Male	19	Caucasian/white	78.47	1.785	24.627890371835008	Yes	<=3 months ago
+U110	Fall2015	yes	Male	18	Caucasian/white	87.6	1.877	24.86426128591942	unknown	unknown
+U111	Fall2015	yes	Male	18	Caucasian/white	71.83	1.78	22.670748642848125	Yes	<=3 months ago
+U112	Fall2015	yes	Male	19	Asian or Pacific Islander	75	1.761	24.18480285032413	unknown	unknown
+U113	Fall2015	yes	Female	18	Caucasian/white	69.9	1.729	23.382297894489305	unknown	unknown
+U114	Fall2015	yes	Female	20	Asian or Pacific Islander	52.8	1.55	21.97710718002081	unknown	unknown
+U115	Fall2015	yes	Female	19	Black American	80.7	1.6	31.523437499999996	unknown	unknown
+U116	Fall2015	yes	Female	18	Caucasian/white	60.9	1.65	22.369146005509645	unknown	unknown
+U117	Fall2015	yes	Female	18	Caucasian/white	79.6	1.629	29.99652176010244	unknown	unknown
+U118	Fall2015	yes	Female	19	Caucasian/white	73.3	1.64	27.253123140987512	unknown	unknown
+U119	Fall2015	yes	Male	23	Caucasian/white	78.7	1.89	22.03185801069399	unknown	unknown
+U120	Fall2015	yes	Male	17	Caucasian/white	70.43	1.75	22.997551020408167	unknown	unknown
+U121	Winter2016	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U122	Winter2016	yes	Female	20	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U123	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U124	Winter2016	yes	Male	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U125	Winter2016	yes	Female	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U126	Winter2016	yes	Female	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U127	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U128	Winter2016	yes	Female	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U129	Winter2016	yes	Female	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U130	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U131	Winter2016	yes	Female	22	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U132	Winter2016	yes	Female	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U133	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U134	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U135	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U136	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U137	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U138	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U139	Winter2016	yes	Female	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U140	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U141	Winter2016	yes	Male	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U142	Winter2016	yes	Female	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U143	Winter2016	yes	Female	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U144	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U145	Winter2016	yes	Female	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U146	Winter2016	yes	Male	18	Asian or Pacific Islander	NA	NA	NA	Yes	<=3 months ago
+U147	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U148	Winter2016	yes	Male	20	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U149	Winter2016	yes	Female	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U150	Winter2016	yes	Female	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U151	Winter2016	yes	Male	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U152	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U153	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U154	Winter2016	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U155	Winter2016	yes	Male	19	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U156	Winter2016	yes	Female	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U157	Winter2016	yes	Male	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U158	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U159	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U160	Winter2016	yes	Male	21	Other	NA	NA	NA	unknown	unknown
+U161	Winter2016	yes	Male	18	Asian or Pacific Islander	NA	NA	NA	Yes	<=3 months ago
+U162	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U163	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U164	Winter2016	yes	Female	19	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U165	Winter2016	yes	Male	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U166	Winter2016	yes	Female	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U167	Winter2016	yes	Male	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U168	Winter2016	yes	Female	22	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U169	Winter2016	yes	Female	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U170	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U171	Winter2016	yes	Male	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U172	Winter2016	yes	Female	19	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U174	Winter2016	yes	Male	-0.167123287671233	Caucasian/white	NA	NA	NA	unknown	unknown
+U175	Winter2016	yes	Female	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U176	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U177	Winter2016	yes	Female	21	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U178	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U179	Winter2016	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U180	Winter2016	yes	Female	20	Asian or Pacific Islander	NA	NA	NA	Yes	<=3 months ago
+U181	Winter2016	yes	Female	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U182	Winter2016	yes	Female	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U183	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U184	Winter2016	yes	Female	20	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U185	Winter2016	yes	Female	17	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U186	Winter2016	yes	Male	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U187	Winter2016	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U188	Winter2016	yes	Male	20	Caucasian/white	NA	NA	NA	unknown	unknown
+U189	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U190	Winter2016	yes	Male	18	Other	NA	NA	NA	unknown	unknown
+U191	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U192	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U193	Winter2016	yes	Male	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U194	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U195	Winter2016	yes	Male	18	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U196	Winter2016	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U197	Winter2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U198	Winter2016	yes	Male	19	Asian or Pacific Islander	NA	NA	NA	unknown	unknown
+U199	Winter2016	yes	Male	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U200	Winter2016	yes	Male	20	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U201	Winter2016	yes	Female	19	Caucasian/white	NA	NA	NA	unknown	unknown
+U202	Winter2016	yes	Female	21	Caucasian/white	NA	NA	NA	unknown	unknown
+U203	Winter2016	yes	Female	18	Caucasian/white	NA	NA	NA	unknown	unknown
+U210	Fall2016	yes	Female	NA	NA	NA	NA	NA	unknown	unknown
+U211	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U212	Fall2016	yes	Female	NA	NA	NA	NA	NA	unknown	unknown
+U213	Fall2016	yes	Female	NA	NA	NA	NA	NA	unknown	unknown
+U214	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U215	Fall2016	yes	Female	NA	Black American	NA	NA	NA	unknown	unknown
+U216	Fall2016	yes	Male	NA	Asian	NA	NA	NA	unknown	unknown
+U217	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U218	Fall2016	yes	Female	NA	NA	NA	NA	NA	unknown	unknown
+U219	Fall2016	yes	Male	NA	Asian	NA	NA	NA	unknown	unknown
+U220	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U221	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U222	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U223	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U224	Fall2016	yes	Female	NA	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U225	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U226	Fall2016	yes	Male	NA	Other	NA	NA	NA	unknown	unknown
+U227	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U228	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U229	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U230	Fall2016	yes	Female	NA	NA	NA	NA	NA	unknown	unknown
+U231	Fall2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U232	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U233	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U234	Fall2016	yes	Female	NA	2 or more ethnicities	NA	NA	NA	unknown	unknown
+U235	Fall2016	yes	Female	NA	NA	NA	NA	NA	unknown	unknown
+U236	Fall2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U237	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U238	Fall2016	yes	Female	NA	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U241	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U242	Fall2016	yes	Female	NA	Native American	NA	NA	NA	unknown	unknown
+U243	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U246	Fall2016	yes	Male	NA	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U247	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U248	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U249	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U250	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U251	Fall2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U252	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U253	Fall2016	yes	Male	NA	Asian	NA	NA	NA	unknown	unknown
+U254	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U255	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U256	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U257	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U258	Fall2016	yes	Male	NA	NA	NA	NA	NA	unknown	unknown
+U259	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U260	Fall2016	yes	Female	NA	2 or more ethnicities	NA	NA	NA	unknown	unknown
+U261	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U262	Fall2016	yes	Female	NA	2 or more ethnicities	NA	NA	NA	unknown	unknown
+U263	Fall2016	yes	Female	NA	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U264	Fall2016	yes	Male	NA	NA	NA	NA	NA	unknown	unknown
+U265	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U266	Fall2016	yes	Male	NA	Hawaiian or Pacific Islander	NA	NA	NA	unknown	unknown
+U267	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U268	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U269	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U270	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U271	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U272	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U273	Fall2016	yes	Male	NA	Asian	NA	NA	NA	unknown	unknown
+U274	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U275	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U276	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U277	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U279	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U280	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U281	Fall2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U282	Fall2016	yes	Male	NA	Asian	NA	NA	NA	unknown	unknown
+U283	Fall2016	yes	Male	NA	Middle Eastern or North African (MENA)	NA	NA	NA	unknown	unknown
+U284	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U285	Fall2016	yes	Male	NA	NA	NA	NA	NA	unknown	unknown
+U286	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U287	Fall2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U288	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U290	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U291	Fall2016	yes	Male	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U292	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U294	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U295	Fall2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U296	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U297	Fall2016	yes	Female	NA	Caucasian/white	NA	NA	NA	unknown	unknown
+U299	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+U300	Fall2016	yes	Female	NA	2 or more ethnicities	NA	NA	NA	unknown	unknown
+U301	Fall2016	yes	Female	NA	Latinx or Hispanic	NA	NA	NA	unknown	unknown
+U302	Fall2016	yes	Female	NA	Asian	NA	NA	NA	unknown	unknown
+np1	Fall2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+np2	Fall2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+np3	Fall2016	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U310	Winter2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U311	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U312	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U314	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U315	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	> 3 months ago
+U316	Winter2017	yes	NA	NA	Middle Eastern or North African (MENA)	NA	NA	NA	No	unknown
+U317	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U318	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U319	Winter2017	yes	NA	NA	2 or more ethnicities	NA	NA	NA	Yes	unknown
+U320	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U321	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U322	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	> 3 months ago
+U323	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U325	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U326	Winter2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U327	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	> 3 months ago
+U328	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U329	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U330	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U331	Winter2017	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U332	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	unknown
+U333	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U334	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	> 3 months ago
+U335	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U336	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U337	Winter2017	yes	NA	NA	Asian	NA	NA	NA	Yes	unknown
+U338	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	> 3 months ago
+U339	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U340	Winter2017	yes	NA	NA	Asian	NA	NA	NA	Yes	unknown
+U341	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	unknown
+U342	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	unknown
+U343	Winter2017	yes	NA	NA	Black non-American	NA	NA	NA	No	unknown
+U344	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U345	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U346	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	unknown
+U347	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U348	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	> 3 months ago
+U349	Winter2017	yes	NA	NA	Middle Eastern or North African (MENA)	NA	NA	NA	Yes	<=3 months ago
+U350	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	> 3 months ago
+U351	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U352	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U353	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U354	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U355	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U356	Winter2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U357	Winter2017	yes	NA	NA	2 or more ethnicities	NA	NA	NA	No	unknown
+U358	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U360	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	> 3 months ago
+U362	Winter2017	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U363	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U364	Winter2017	yes	NA	NA	Asian	NA	NA	NA	Yes	> 3 months ago
+U365	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	> 3 months ago
+U366	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	unknown
+U367	Winter2017	yes	NA	NA	2 or more ethnicities	NA	NA	NA	Yes	unknown
+U368	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	unknown
+U369	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U370	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U371	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U372	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U373	Winter2017	yes	NA	NA	2 or more ethnicities	NA	NA	NA	Yes	unknown
+U375	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U376	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U377	Winter2017	yes	NA	NA	Asian	NA	NA	NA	Yes	<=3 months ago
+U378	Winter2017	yes	NA	NA	Black non-American	NA	NA	NA	Yes	unknown
+U379	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	unknown
+U380	Winter2017	yes	NA	NA	Latinx or Hispanic	NA	NA	NA	Yes	<=3 months ago
+U381	Winter2017	yes	NA	NA	Middle Eastern or North African (MENA)	NA	NA	NA	Yes	<=3 months ago
+U382	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	> 3 months ago
+U383	Winter2017	yes	NA	NA	Middle Eastern or North African (MENA)	NA	NA	NA	Yes	unknown
+U384	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U385	Winter2017	yes	NA	NA	2 or more ethnicities	NA	NA	NA	No	unknown
+U386	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	> 3 months ago
+U387	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U387	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U387	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U387	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U388	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	unknown
+U389	Winter2017	yes	NA	NA	Asian	NA	NA	NA	Yes	> 3 months ago
+U390	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	<=3 months ago
+U391	Winter2017	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U392	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	unknown
+U393	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U394	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U395	Winter2017	yes	NA	NA	Asian	NA	NA	NA	No	> 3 months ago
+U396	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	Yes	unknown
+U397	Winter2017	yes	NA	NA	Caucasian/white	NA	NA	NA	No	unknown
+U398	Winter2017	yes	NA	NA	Asian	NA	NA	NA	Yes	<=3 months ago
+U399	Winter2017	yes	NA	NA	Middle Eastern or North African (MENA)	NA	NA	NA	Yes	unknown
+U400	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U401	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U402	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U404	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	<=3 months ago
+U405	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U406	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U407	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U408	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U410	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U411	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U412	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U413	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	<=3 months ago
+U414	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	<=3 months ago
+U415	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	<=3 months ago
+U416	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U417	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U418	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U419	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U420	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U421	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U422	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	<=3 months ago
+U423	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U424	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U425	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U426	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U427	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U428	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U429	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U430	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U431	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U432	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U433	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U434	Fall2017	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U436	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U437	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U438	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U439	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U441	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U442	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U443	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U444	Fall2017	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U445	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U446	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U447	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U448	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U449	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U450	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U452	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U453	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U454	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U455	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U456	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U457	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U458	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U459	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U460	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U461	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U462	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U463	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U464	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	<=3 months ago
+U465	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U466	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U467	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U468	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U469	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U470	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	<=3 months ago
+U471	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	<=3 months ago
+U472	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U473	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U474	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U475	Fall2017	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U476	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U477	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U478	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U479	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U480	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U481	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U482	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	<=3 months ago
+U483	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U484	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U485	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U486	Fall2017	yes	NA	NA	NA	NA	NA	NA	No	unknown
+U487	Fall2017	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U488	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	unknown
+U489	Fall2017	yes	NA	NA	NA	NA	NA	NA	Yes	<=3 months ago
+U500	Winter2018	yes	Female	NA	Asian	56.69962805044	1.5748031496063	NA	No	unknown
+U501	Winter2018	yes	Female	NA	Asian	56.69962805044	1.70180340360681	NA	Yes	> 3 months ago
+U502	Winter2018	yes	Male	NA	Caucasian/white	70.3075387825456	1.95580391160782	NA	Yes	> 3 months ago
+U503	Winter2018	yes	Male	NA	Caucasian/white	98.8841513199673	1.82880365760732	NA	Yes	<=3 months ago
+U504	Winter2018	yes	Female	NA	Caucasian/white	67.1323596117209	1.70180340360681	NA	Yes	<=3 months ago
+U506	Winter2018	yes	Female	NA	Caucasian/white	58.9676131724576	1.70180340360681	NA	Yes	<=3 months ago
+U507	Winter2018	yes	Female	NA	Caucasian/white	58.9676131724576	1.6256032512065	NA	No	unknown
+U508	Winter2018	yes	Female	NA	Asian	45.359702440352	1.5494030988062	NA	No	unknown
+U509	Winter2018	yes	Female	NA	Asian	54.4316429284224	1.67640335280671	NA	No	unknown
+U510	Winter2018	yes	Female	NA	Caucasian/white	127.007166832986	1.6510033020066	NA	unknown	unknown
+U511	Winter2018	yes	Female	NA	Caucasian/white	49.8956726843872	1.6256032512065	NA	No	unknown
+U512	Winter2018	yes	Female	NA	Caucasian/white	84.8226435634582	1.67640335280671	NA	Yes	<=3 months ago
+U513	Winter2018	yes	Female	NA	Asian	50.8028667331942	1.5494030988062	NA	No	unknown
+U514	Winter2018	yes	Female	NA	Prefer not to say	65.7715685385104	1.67640335280671	NA	Yes	<=3 months ago
+U516	Winter2018	yes	Female	NA	Asian	52.6172548308083	1.6002032004064	NA	No	unknown
+U517	Winter2018	yes	Male	NA	Caucasian/white	63.5035834164928	1.80340360680721	NA	No	unknown
+U518	Winter2018	yes	Female	NA	Caucasian/white	65.7715685385104	1.6510033020066	NA	No	unknown
+U519	Winter2018	yes	Female	NA	Caucasian/white	58.9676131724576	1.75260350520701	NA	No	unknown
+U520	Winter2018	yes	Female	NA	Caucasian/white	70.3075387825456	1.72720345440691	NA	No	unknown
+U521	Winter2018	yes	Female	NA	Asian	42.6381202939309	1.49860299720599	NA	Yes	<=3 months ago
+U522	Winter2018	yes	Male	NA	Prefer not to say	81.6474643926336	1.77800355600711	NA	No	unknown
+U523	Winter2018	yes	Male	NA	Black American	72.5755239045632	1.82880365760732	NA	Yes	> 3 months ago
+U524	Winter2018	yes	Male	NA	Caucasian/white	79.379479270616	1.82880365760732	NA	No	unknown
+U525	Winter2018	yes	Female	NA	Asian	56.69962805044	1.67640335280671	NA	Yes	<=3 months ago
+U526	Winter2018	yes	Male	NA	Caucasian/white	81.6474643926336	1.82880365760732	NA	No	unknown
+U527	Winter2018	yes	Female	NA	Black American	73.4827179533702	1.6002032004064	NA	No	unknown
+U528	Winter2018	yes	Male	NA	Latinx or Hispanic	114.306450149687	1.85420370840742	NA	unknown	unknown
+U529	Winter2018	yes	Female	NA	Caucasian/white	58.9676131724576	1.5494030988062	NA	No	unknown
+U530	Winter2018	yes	Female	NA	Middle Eastern or North African (MENA)	68.039553660528	1.72720345440691	NA	No	unknown
+U531	Winter2018	yes	Female	NA	Caucasian/white	68.4931506849315	1.6256032512065	NA	Yes	<=3 months ago
+U532	Winter2018	yes	Male	NA	Caucasian/white	115.667241222898	1.85420370840742	NA	No	unknown
+U533	Winter2018	yes	Male	NA	2 or more ethnicities	76.2043000997913	1.75260350520701	NA	No	unknown
+U534	Winter2018	yes	Female	NA	NA	51.2564637575977	1.58750317500635	NA	No	unknown
+U535	Winter2018	yes	Female	NA	Caucasian/white	68.039553660528	1.67640335280671	NA	Yes	> 3 months ago
+U536	Winter2018	yes	Female	NA	Caucasian/white	74.8435090265808	1.72720345440691	NA	Yes	<=3 months ago
+U540	Winter2018	yes	Female	NA	Caucasian/white	55.3388369772294	1.67640335280671	NA	Yes	<=3 months ago
+U541	Winter2018	yes	Male	NA	Asian	72.5755239045632	1.75260350520701	NA	No	unknown
+U542	Winter2018	yes	Male	NA	Caucasian/white	81.6474643926336	1.82880365760732	NA	No	unknown
+U543	Winter2018	yes	Female	NA	Caucasian/white	63.5035834164928	1.75260350520701	NA	No	unknown
+U544	Winter2018	yes	Female	NA	NA	58.9676131724576	1.6002032004064	NA	No	unknown
+U545	Winter2018	yes	Female	NA	Caucasian/white	64.4107774652998	1.72720345440691	NA	Yes	<=3 months ago
+U546	Winter2018	yes	Male	NA	Caucasian/white	65.7715685385104	1.82880365760732	NA	No	unknown
+U547	Winter2018	yes	Female	NA	Asian	47.6276875623696	1.5748031496063	NA	Yes	> 3 months ago
+U548	Winter2018	yes	Female	NA	Caucasian/white	44.4525083915449	1.6002032004064	NA	unknown	unknown
+U549	Winter2018	yes	Female	NA	Native American	56.2460310260365	1.5748031496063	NA	Yes	> 3 months ago
+U550	Winter2018	yes	Male	NA	Caucasian/white	90.719404880704	1.90500381000762	NA	No	unknown
+U551	Winter2018	yes	Female	NA	Black American	61.2355982944752	1.5748031496063	NA	Yes	<=3 months ago
+U552	Winter2018	yes	Male	NA	Black American	72.5755239045632	1.85420370840742	NA	No	unknown
+U553	Winter2018	yes	Female	NA	Caucasian/white	58.9676131724576	1.67640335280671	NA	No	unknown
+U554	Winter2018	yes	Female	NA	Caucasian/white	56.69962805044	1.90500381000762	NA	No	unknown
+U555	Winter2018	yes	Female	NA	Caucasian/white	58.9676131724576	1.67640335280671	NA	No	unknown
+U556	Winter2018	yes	Female	NA	Middle Eastern or North African (MENA)	67.1323596117209	1.5748031496063	NA	No	unknown
+U557	Winter2018	yes	Female	NA	Caucasian/white	58.9676131724576	1.6256032512065	NA	Yes	> 3 months ago
+U558	Winter2018	yes	Female	NA	Caucasian/white	68.039553660528	1.6256032512065	NA	No	unknown
+U559	Winter2018	yes	Female	NA	NA	74.8435090265808	1.6256032512065	NA	Yes	<=3 months ago
+U561	Winter2018	yes	Male	NA	Middle Eastern or North African (MENA)	61.2355982944752	1.75260350520701	NA	Yes	> 3 months ago
+U562	Winter2018	yes	Female	NA	Caucasian/white	54.4316429284224	1.6002032004064	NA	Yes	<=3 months ago
+U563	Winter2018	yes	Female	NA	Middle Eastern or North African (MENA)	70.7611358069491	1.6256032512065	NA	Yes	<=3 months ago
+U564	Winter2018	yes	Female	NA	Caucasian/white	65.7715685385104	1.67640335280671	NA	Yes	> 3 months ago
+U565	Winter2018	yes	Female	NA	Caucasian/white	56.2460310260365	1.5748031496063	NA	Yes	<=3 months ago
+U566	Winter2018	yes	Male	NA	Asian	74.8435090265808	1.85420370840742	NA	unknown	unknown
+U567	Winter2018	yes	Female	NA	Caucasian/white	54.4316429284224	1.73990347980696	NA	unknown	unknown
+U568	Winter2018	yes	Male	NA	Caucasian/white	95.2553751247392	1.87960375920752	NA	Yes	<=3 months ago
+U569	Winter2018	yes	Female	NA	Caucasian/white	58.9676131724576	1.6510033020066	NA	Yes	<=3 months ago
+U570	Winter2018	yes	Female	NA	Caucasian/white	58.9676131724576	1.6510033020066	NA	Yes	> 3 months ago
+U571	Winter2018	yes	Female	NA	Caucasian/white	56.69962805044	1.6510033020066	NA	unknown	unknown
+U572	Winter2018	yes	Female	NA	Asian	48.9884786355802	1.5748031496063	NA	No	unknown
+U573	Winter2018	yes	Female	NA	Middle Eastern or North African (MENA)	86.1834346366688	1.6002032004064	NA	No	unknown
+U574	Winter2018	yes	Female	NA	Asian	63.5035834164928	1.70180340360681	NA	No	unknown
+U575	Winter2018	yes	Male	NA	Black American	78.4722852218089	1.85420370840742	NA	No	unknown
+U576	Winter2018	yes	Male	NA	Caucasian/white	72.5755239045632	2.00660401320803	NA	Yes	<=3 months ago
+U577	Winter2018	yes	Female	NA	Latinx or Hispanic	48.5348816111766	1.49860299720599	NA	No	unknown
+U578	Winter2018	yes	Male	NA	Asian	78.9258822462125	1.82880365760732	NA	No	unknown
+U579	Winter2018	yes	Female	NA	Caucasian/white	49.8956726843872	1.5494030988062	NA	No	unknown
+U580	Winter2018	yes	Female	NA	Latinx or Hispanic	58.9676131724576	1.5748031496063	NA	Yes	<=3 months ago
+U581	Winter2018	yes	Female	NA	Caucasian/white	63.5035834164928	1.72720345440691	NA	Yes	<=3 months ago
+U582	Winter2018	yes	Female	NA	Caucasian/white	56.69962805044	1.5748031496063	NA	Yes	<=3 months ago
+U583	Winter2018	yes	Female	NA	Caucasian/white	56.69962805044	1.72720345440691	NA	No	unknown
+U584	Winter2018	yes	Female	NA	Caucasian/white	58.9676131724576	1.5494030988062	NA	No	unknown
+U585	Winter2018	yes	Male	NA	Caucasian/white	68.039553660528	1.75260350520701	NA	Yes	<=3 months ago
+U586	Winter2018	yes	Female	NA	Black American	55.3388369772294	1.5748031496063	NA	No	unknown
+U587	Winter2018	yes	Male	NA	Prefer not to say	67.1323596117209	1.70180340360681	NA	Yes	<=3 months ago
+U588	Winter2018	yes	Female	NA	Asian	49.8956726843872	1.6	NA	No	unknown
+U589	Winter2018	yes	Female	NA	Caucasian/white	61.2355982944752	1.6510033020066	NA	Yes	> 3 months ago
+U600	Fall2018	yes	Female	19	2 or more ethnicities	56.6893424036281	NA	NA	No	> 3 months ago
+U602	Fall2018	yes	Female	20	Black American	59.8639455782313	NA	NA	No	> 3 months ago
+U603	Fall2018	yes	Female	20	Caucasian/white	65.7596371882086	NA	NA	Yes	> 3 months ago
+U605	Fall2018	yes	Female	19	2 or more ethnicities	76.1904761904762	NA	NA	No	> 3 months ago
+U606	Fall2018	yes	Female	20	Caucasian/white	69.8412698412698	NA	NA	Yes	> 3 months ago
+U607	Fall2018	yes	Female	19	2 or more ethnicities	63.4920634920635	NA	NA	No	> 3 months ago
+U608	Fall2018	yes	Female	20	Caucasian/white	58.9569160997732	NA	NA	No	> 3 months ago
+U610	Fall2018	yes	Female	19	Other	63.0385487528345	NA	NA	No	> 3 months ago
+U611	Fall2018	yes	Female	19	Black American	81.6326530612245	NA	NA	No	> 3 months ago
+U612	Fall2018	yes	Male	19	Asian	49.8866213151927	NA	NA	No	> 3 months ago
+U613	Fall2018	yes	Female	19	Asian	48.0725623582766	NA	NA	No	> 3 months ago
+U615	Fall2018	yes	Male	19	Caucasian/white	74.8299319727891	NA	NA	Yes	<=3 months ago
+U616	Fall2018	yes	Female	19	Caucasian/white	55.328798185941	NA	NA	Yes	<=3 months ago
+U617	Fall2018	yes	Female	20	Caucasian/white	77.0975056689342	NA	NA	Yes	<=3 months ago
+U618	Fall2018	yes	Female	19	2 or more ethnicities	49.8866213151927	NA	NA	Yes	> 3 months ago
+U619	Fall2018	yes	Male	19	Caucasian/white	70.2947845804989	NA	NA	unknown	> 3 months ago
+U620	Fall2018	yes	Male	18	Caucasian/white	81.6326530612245	NA	NA	No	> 3 months ago
+U621	Fall2018	yes	Female	19	Caucasian/white	74.8299319727891	NA	NA	No	> 3 months ago
+U622	Fall2018	yes	Female	19	Caucasian/white	61.2244897959184	NA	NA	Yes	<=3 months ago
+U623	Fall2018	yes	Female	19	Caucasian/white	56.2358276643991	NA	NA	No	> 3 months ago
+U624	Fall2018	yes	Female	20	Asian	54.421768707483	NA	NA	Yes	> 3 months ago
+U625	Fall2018	yes	Female	19	Asian	61.2244897959184	NA	NA	Yes	<=3 months ago
+U626	Fall2018	yes	Female	20	Asian	47.6190476190476	NA	NA	No	> 3 months ago
+U627	Fall2018	yes	Male	20	Black American	95.2380952380952	NA	NA	No	> 3 months ago
+U628	Fall2018	yes	Male	19	Asian	94.3310657596372	NA	NA	No	> 3 months ago
+U629	Fall2018	yes	Female	21	Asian	49.8866213151927	NA	NA	No	> 3 months ago
+U630	Fall2018	yes	Male	19	Asian	68.0272108843537	NA	NA	No	> 3 months ago
+U631	Fall2018	yes	Female	19	Caucasian/white	54.421768707483	NA	NA	Yes	<=3 months ago
+U633	Fall2018	yes	Male	19	2 or more ethnicities	83.9002267573696	NA	NA	No	> 3 months ago
+U634	Fall2018	yes	Male	19	Asian	62.5850340136054	NA	NA	Yes	> 3 months ago
+U635	Fall2018	yes	Female	19	2 or more ethnicities	63.4920634920635	NA	NA	No	> 3 months ago
+U636	Fall2018	yes	Female	19	Caucasian/white	53.5147392290249	NA	NA	Yes	<=3 months ago
+U637	Fall2018	yes	Male	20	2 or more ethnicities	81.6326530612245	NA	NA	No	> 3 months ago
+U638	Fall2018	yes	Male	19	Prefer not to say	70.2947845804989	NA	NA	Yes	<=3 months ago
+U639	Fall2018	yes	Female	20	Caucasian/white	71.6553287981859	NA	NA	No	> 3 months ago
+U640	Fall2018	yes	Female	19	Asian	43.9909297052154	NA	NA	unknown	> 3 months ago
+U642	Fall2018	yes	Female	21	Caucasian/white	58.0498866213152	NA	NA	unknown	> 3 months ago
+U643	Fall2018	yes	Female	19	2 or more ethnicities	58.9569160997732	NA	NA	Yes	> 3 months ago
+U644	Fall2018	yes	Male	19	2 or more ethnicities	65.7596371882086	NA	NA	No	> 3 months ago
+U645	Fall2018	yes	Female	20	Caucasian/white	65.7596371882086	NA	NA	No	> 3 months ago
+U646	Fall2018	yes	Female	22	Caucasian/white	92.5170068027211	NA	NA	No	> 3 months ago
+U648	Fall2018	yes	Female	19	Asian	60.3174603174603	NA	NA	No	> 3 months ago
+U649	Fall2018	yes	Male	19	Caucasian/white	86.1678004535147	NA	NA	Yes	> 3 months ago
+U650	Fall2018	yes	Female	19	Asian	61.2244897959184	NA	NA	No	> 3 months ago
+U651	Fall2018	yes	Female	19	Caucasian/white	65.7596371882086	NA	NA	No	> 3 months ago
+U652	Fall2018	yes	Female	18	Asian	56.2358276643991	NA	NA	No	> 3 months ago
+U653	Fall2018	yes	Female	19	Caucasian/white	56.6893424036281	NA	NA	Yes	<=3 months ago
+U654	Fall2018	yes	Male	20	Caucasian/white	79.3650793650794	NA	NA	No	> 3 months ago
+U655	Fall2018	yes	Female	20	Black American	71.2018140589569	NA	NA	No	> 3 months ago
+U656	Fall2018	yes	Male	19	Caucasian/white	101.133786848073	NA	NA	No	> 3 months ago
+U658	Fall2018	yes	Female	19	Asian	59.4104308390023	NA	NA	Yes	> 3 months ago
+U660	Fall2018	yes	Male	20	Asian	88.4353741496599	NA	NA	No	> 3 months ago
+U661	Fall2018	yes	Male	20	Caucasian/white	90.702947845805	NA	NA	No	> 3 months ago
+U662	Fall2018	yes	Female	20	Other	54.421768707483	NA	NA	No	> 3 months ago
+U663	Fall2018	yes	Female	20	Asian	58.5034013605442	NA	NA	unknown	> 3 months ago
+U664	Fall2018	yes	Female	18	Caucasian/white	54.421768707483	NA	NA	Yes	<=3 months ago
+U665	Fall2018	yes	Female	19	Asian	48.0725623582766	NA	NA	No	> 3 months ago
+U666	Fall2018	yes	Male	20	Caucasian/white	74.8299319727891	NA	NA	No	> 3 months ago
+U667	Fall2018	yes	Male	19	Black American	81.6326530612245	NA	NA	No	> 3 months ago
+U668	Fall2018	yes	Female	20	Caucasian/white	54.421768707483	NA	NA	Yes	<=3 months ago
+U669	Fall2018	yes	Female	20	Prefer not to say	55.7823129251701	NA	NA	No	> 3 months ago
+U670	Fall2018	yes	Female	19	Asian	53.5147392290249	NA	NA	No	> 3 months ago
+U671	Fall2018	yes	Female	19	Caucasian/white	48.0725623582766	NA	NA	No	> 3 months ago
+U672	Fall2018	yes	Female	21	Asian	61.2244897959184	NA	NA	No	> 3 months ago
+U673	Fall2018	yes	Female	19	Caucasian/white	57.5963718820862	NA	NA	No	> 3 months ago
+U674	Fall2018	yes	Female	21	2 or more ethnicities	54.875283446712	NA	NA	Yes	<=3 months ago
+U676	Fall2018	yes	Female	20	Asian	46.7120181405896	NA	NA	Yes	> 3 months ago
+U677	Fall2018	yes	Female	20	Caucasian/white	77.0975056689342	NA	NA	No	> 3 months ago
+U678	Fall2018	yes	Female	19	Caucasian/white	65.7596371882086	NA	NA	Yes	<=3 months ago
+U679	Fall2018	yes	Female	19	2 or more ethnicities	58.9569160997732	NA	NA	No	> 3 months ago
+U680	Fall2018	yes	Female	18	Prefer not to say	92.0634920634921	NA	NA	No	> 3 months ago
+U681	Fall2018	yes	Female	20	Caucasian/white	54.421768707483	NA	NA	No	> 3 months ago
+U682	Fall2018	yes	Female	21	Other	61.2244897959184	NA	NA	No	> 3 months ago
+U683	Fall2018	yes	Female	19	Asian	45.3514739229025	NA	NA	unknown	> 3 months ago
+U685	Fall2018	yes	Female	19	Latinx or Hispanic	72.562358276644	NA	NA	Yes	<=3 months ago
+U686	Fall2018	yes	Female	19	Asian	78.9115646258503	NA	NA	No	<=3 months ago
+U687	Fall2018	yes	Female	19	Caucasian/white	63.9455782312925	NA	NA	Yes	> 3 months ago
+U688	Fall2018	yes	Female	20	Caucasian/white	67.1201814058957	NA	NA	Yes	<=3 months ago
+U689	Fall2018	yes	Female	19	Black American	54.421768707483	NA	NA	No	> 3 months ago
+U691	Fall2018	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U700	Winter2019	yes	Male	19	Asian	61.224489795918366	1.7018034036068073	NA	No	> 3 months ago
+U701	Winter2019	yes	Female	19	Asian	58.956916099773238	1.7018034036068073	NA	Yes	<=3 months ago
+U702	Winter2019	yes	Female	19	Caucasian/white	81.632653061224488	1.6510033020066042	NA	Yes	> 3 months ago
+U703	Winter2019	yes	Female	19	Caucasian/white	63.492063492063487	1.7018034036068073	NA	Yes	<=3 months ago
+U704	Winter2019	yes	Male	18	Asian	68.027210884353735	1.727203454406909	NA	No	> 3 months ago
+U705	Winter2019	yes	Female	18	Caucasian/white	63.492063492063487	1.7780035560071121	NA	No	> 3 months ago
+U706	Winter2019	yes	Female	18	Middle Eastern or North African (MENA)	66.666666666666671	1.6764033528067057	NA	No	> 3 months ago
+U707	Winter2019	yes	Female	18	Caucasian/white	70.29478458049887	1.6764033528067057	NA	No	> 3 months ago
+U708	Winter2019	yes	Male	19	Middle Eastern or North African (MENA)	65.759637188208615	1.7526035052070106	NA	Yes	<=3 months ago
+U709	Winter2019	yes	Male	20	Caucasian/white	83.900226757369609	1.854203708407417	NA	Yes	> 3 months ago
+U710	Winter2019	yes	Female	18	Black American	58.956916099773238	1.6002032004064008	NA	No	> 3 months ago
+U711	Winter2019	yes	Male	20	Middle Eastern or North African (MENA)	87.528344671201808	1.7653035306070612	NA	Yes	<=3 months ago
+U712	Winter2019	yes	Female	19	Caucasian/white	59.863945578231288	1.6510033020066042	NA	No	> 3 months ago
+U713	Winter2019	yes	Female	18	2 or more ethnicities	61.224489795918366	1.7018034036068073	NA	Yes	> 3 months ago
+U714	Winter2019	yes	Male	18	Asian	58.956916099773238	1.7018034036068073	NA	No	> 3 months ago
+U715	Winter2019	yes	Male	18	Asian	76.643990929705211	1.7526035052070106	NA	No	> 3 months ago
+U716	Winter2019	yes	Male	18	2 or more ethnicities	74.37641723356009	1.727203454406909	NA	Yes	> 3 months ago
+U717	Winter2019	yes	Female	20	Caucasian/white	55.328798185941039	1.6002032004064008	NA	No	> 3 months ago
+U719	Winter2019	yes	Female	18	Asian	56.689342403628117	1.6002032004064008	NA	No	> 3 months ago
+U720	Winter2019	yes	Female	21	Asian	68.027210884353735	1.6510033020066042	NA	No	> 3 months ago
+U721	Winter2019	yes	Female	21	Caucasian/white	61.224489795918366	1.6256032512065026	NA	No	> 3 months ago
+U722	Winter2019	yes	Female	19	Caucasian/white	58.956916099773238	1.6510033020066042	NA	Yes	<=3 months ago
+U723	Winter2019	yes	Female	20	Hawaiian or Pacific Islander	50.793650793650791	1.6510033020066042	NA	Yes	> 3 months ago
+U724	Winter2019	yes	Female	18	Caucasian/white	69.841269841269835	1.6510033020066042	NA	Yes	<=3 months ago
+U725	Winter2019	yes	Female	18	Asian	56.235827664399089	1.6002032004064008	NA	No	> 3 months ago
+U726	Winter2019	yes	Male	20	Asian	95.238095238095241	1.8034036068072137	NA	Yes	<=3 months ago
+U727	Winter2019	yes	Male	20	2 or more ethnicities	86.167800453514729	1.8796037592075185	NA	No	> 3 months ago
+U728	Winter2019	yes	Male	19	Middle Eastern or North African (MENA)	68.027210884353735	1.854203708407417	NA	unknown	> 3 months ago
+U729	Winter2019	yes	Male	19	Asian	95.238095238095241	1.7780035560071121	NA	No	> 3 months ago
+U730	Winter2019	yes	Female	20	2 or more ethnicities	58.956916099773238	1.6764033528067057	NA	No	> 3 months ago
+U731	Winter2019	yes	Female	19	Middle Eastern or North African (MENA)	67.573696145124714	1.7018034036068073	NA	Yes	> 3 months ago
+U732	Winter2019	yes	Female	24	Middle Eastern or North African (MENA)	74.829931972789112	1.5240030480060962	NA	Yes	> 3 months ago
+U733	Winter2019	yes	Male	18	Caucasian/white	63.492063492063487	1.8288036576073152	NA	No	> 3 months ago
+U734	Winter2019	yes	Male	20	Middle Eastern or North African (MENA)	68.027210884353735	1.8288036576073152	NA	No	> 3 months ago
+U735	Winter2019	yes	Male	19	Middle Eastern or North African (MENA)	76.19047619047619	1.7526035052070106	NA	Yes	<=3 months ago
+U736	Winter2019	yes	NA	"NA"	-	"NA"	"NA"	NA	unknown	unknown
+U738	Winter2019	yes	Female	19	Caucasian/white	54.42176870748299	1.5748031496062993	NA	No	> 3 months ago
+U739	Winter2019	yes	Female	19	Caucasian/white	72.562358276643991	1.7780035560071121	NA	Yes	> 3 months ago
+U740	Winter2019	yes	Female	18	Asian	56.689342403628117	1.6002032004064008	NA	No	> 3 months ago
+U741	Winter2019	yes	Female	18	Asian	56.235827664399089	1.6764033528067057	NA	No	> 3 months ago
+U743	Winter2019	yes	Female	18	2 or more ethnicities	52.60770975056689	1.6764033528067057	NA	Yes	> 3 months ago
+U744	Winter2019	yes	Female	18	Asian	49.886621315192741	1.5240030480060962	NA	No	> 3 months ago
+U745	Winter2019	yes	Male	19	Asian	66.666666666666671	1.7780035560071121	NA	No	> 3 months ago
+U746	Winter2019	yes	Male	19	Middle Eastern or North African (MENA)	88.435374149659864	1.8288036576073152	NA	No	> 3 months ago
+U747	Winter2019	yes	Female	18	Caucasian/white	54.42176870748299	1.7018034036068073	NA	Yes	> 3 months ago
+U749	Winter2019	yes	Male	29	Black non-American	54.42176870748299	1.727203454406909	NA	No	> 3 months ago
+U750	Winter2019	yes	Female	18	Latinx or Hispanic	113.37868480725623	1.7526035052070106	NA	Yes	> 3 months ago
+U751	Winter2019	yes	Female	19	Caucasian/white	65.759637188208615	1.8034036068072137	NA	Yes	<=3 months ago
+U752	Winter2019	yes	Female	19	Asian	64.852607709750558	1.5748031496062993	NA	No	> 3 months ago
+U753	Winter2019	yes	Female	19	Caucasian/white	48.52607709750567	1.6764033528067057	NA	No	> 3 months ago
+U754	Winter2019	yes	Female	19	Caucasian/white	47.165532879818592	1.4986029972059944	NA	Yes	<=3 months ago
+U755	Winter2019	yes	Female	20	Caucasian/white	63.492063492063487	1.6510033020066042	NA	Yes	<=3 months ago
+U756	Winter2019	yes	Female	18	Caucasian/white	70.748299319727892	1.5748031496062993	NA	unknown	> 3 months ago
+U757	Winter2019	yes	Female	19	Caucasian/white	47.61904761904762	1.5494030988061978	NA	Yes	<=3 months ago
+U758	Winter2019	yes	Male	19	Asian	80.725623582766431	1.727203454406909	NA	unknown	> 3 months ago
+U759	Winter2019	yes	Female	22	Asian	49.886621315192741	1.5748031496062993	NA	Yes	<=3 months ago
+U760	Winter2019	yes	Male	20	Asian	65.759637188208615	1.7018034036068073	NA	No	> 3 months ago
+U761	Winter2019	yes	Female	19	Asian	49.886621315192741	1.6002032004064008	NA	No	> 3 months ago
+U762	Winter2019	yes	Male	18	Asian	77.097505668934232	1.8288036576073152	NA	No	> 3 months ago
+U763	Winter2019	yes	Male	19	Caucasian/white	65.759637188208615	1.8288036576073152	NA	Yes	<=3 months ago
+U764	Winter2019	yes	Female	18	Asian	63.492063492063487	1.6764033528067057	NA	No	> 3 months ago
+U766	Winter2019	yes	Female	18	Asian	58.956916099773238	1.6510033020066042	NA	No	> 3 months ago
+U767	Winter2019	yes	Female	19	Asian	72.562358276643991	1.5748031496062993	NA	No	> 3 months ago
+U768	Winter2019	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U769	Winter2019	yes	Female	18	Latinx or Hispanic	86.167800453514729	1.7018034036068073	NA	unknown	> 3 months ago
+U770	Winter2019	yes	Female	19	Asian	54.42176870748299	1.6764033528067057	NA	Yes	<=3 months ago
+U771	Winter2019	yes	Female	18	Asian	54.42176870748299	1.6256032512065026	NA	Yes	<=3 months ago
+U772	Winter2019	yes	Female	18	Caucasian/white	52.154195011337869	1.5748031496062993	NA	Yes	> 3 months ago
+U773	Winter2019	yes	Female	19	Caucasian/white	67.120181405895693	1.6764033528067057	NA	unknown	> 3 months ago
+U774	Winter2019	yes	Female	18	Black American	56.689342403628117	1.6510033020066042	NA	Yes	> 3 months ago
+U775	Winter2019	yes	Male	19	Caucasian/white	84.807256235827666	1.7780035560071121	NA	Yes	<=3 months ago
+U776	Winter2019	yes	Male	20	Middle Eastern or North African (MENA)	66.213151927437636	1.7018034036068073	NA	No	> 3 months ago
+U777	Winter2019	yes	Female	20	Caucasian/white	49.886621315192741	1.5748031496062993	NA	Yes	> 3 months ago
+U778	Winter2019	yes	Female	19	Asian	61.224489795918366	1.5494030988061978	NA	No	> 3 months ago
+U779	Winter2019	yes	Male	21	2 or more ethnicities	106.57596371882086	1.8288036576073152	NA	No	> 3 months ago
+U780	Winter2019	yes	Female	19	Caucasian/white	56.689342403628117	1.6256032512065026	NA	Yes	<=3 months ago
+U781	Winter2019	yes	Female	21	Caucasian/white	54.42176870748299	1.5494030988061978	NA	Yes	> 3 months ago
+U783	Winter2019	yes	Female	19	Caucasian/white	52.154195011337869	1.6002032004064008	NA	Yes	<=3 months ago
+U784	Winter2019	yes	Male	21	Asian	81.632653061224488	1.8034036068072137	NA	No	> 3 months ago
+U785	Winter2019	yes	Female	19	Caucasian/white	52.154195011337869	1.5748031496062993	NA	Yes	> 3 months ago
+U786	Winter2019	yes	Male	19	Caucasian/white	81.632653061224488	1.7780035560071121	NA	Yes	<=3 months ago
+U787	Winter2019	yes	Female	18	Asian	49.43310657596372	1.6637033274066548	NA	Yes	> 3 months ago
+U788	Winter2019	yes	Male	18	Caucasian/white	64.399092970521536	1.727203454406909	NA	Yes	> 3 months ago
+U789	Winter2019	yes	Male	20	Middle Eastern or North African (MENA)	82.993197278911566	1.8796037592075185	NA	Yes	> 3 months ago
+U790	Winter2019	yes	Female	26	Caucasian/white	63.492063492063487	1.6764033528067057	NA	Yes	<=3 months ago
+U791	Winter2019	yes	Female	19	2 or more ethnicities	68.027210884353735	1.6002032004064008	NA	Yes	> 3 months ago
+U792	Winter2019	yes	Female	20	Caucasian/white	58.049886621315189	1.6764033528067057	NA	No	> 3 months ago
+U793	Winter2019	yes	Female	18	Caucasian/white	60.770975056689338	1.5748031496062993	NA	Yes	<=3 months ago
+U794	Winter2019	yes	Female	19	Latinx or Hispanic	56.689342403628117	1.6256032512065026	NA	Yes	> 3 months ago
+U796	Winter2019	yes	Female	20	Caucasian/white	65.759637188208615	1.7526035052070106	NA	No	> 3 months ago
+U797	Winter2019	yes	Female	19	2 or more ethnicities	72.562358276643991	1.6764033528067057	NA	Yes	> 3 months ago
+U798	Winter2019	yes	Female	20	Caucasian/white	72.562358276643991	1.6764033528067057	NA	No	> 3 months ago
+U799	Winter2019	yes	Male	18	Middle Eastern or North African (MENA)	70.29478458049887	1.8796037592075185	NA	No	> 3 months ago
+U801	Fall2019	yes	Female	18	Asian	48.5260770975057	1.6002032004064	NA	No	> 3 months ago
+U802	Fall2019	yes	Female	20	Asian	48.0725623582766	1.5748031496063	NA	No	> 3 months ago
+U803	Fall2019	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U804	Fall2019	yes	Male	20	Caucasian/white	70.2947845804989	1.72720345440691	NA	No	> 3 months ago
+U805	Fall2019	yes	Female	19	Caucasian/white	73.9229024943311	1.67640335280671	NA	Yes	> 3 months ago
+U806	Fall2019	yes	Female	20	Caucasian/white	68.0272108843537	1.6256032512065	NA	Yes	<=3 months ago
+U807	Fall2019	yes	Male	21	Latinx or Hispanic	86.1678004535147	1.87960375920752	NA	Yes	<=3 months ago
+U808	Fall2019	yes	Female	19	Asian	52.1541950113379	1.5748031496063	NA	Yes	> 3 months ago
+U809	Fall2019	yes	Female	19	Middle Eastern or North African (MENA)	71.6553287981859	1.70180340360681	NA	No	> 3 months ago
+U810	Fall2019	yes	Female	19	Asian	52.1541950113379	1.5748031496063	NA	No	> 3 months ago
+U811	Fall2019	yes	Female	19	Caucasian/white	54.421768707483	1.6510033020066	NA	Yes	> 3 months ago
+U812	Fall2019	yes	Male	19	Asian	63.4920634920635	1.72720345440691	NA	No	> 3 months ago
+U813	Fall2019	yes	Female	18	Caucasian/white	77.0975056689342	1.75260350520701	NA	Yes	<=3 months ago
+U814	Fall2019	yes	Male	20	Caucasian/white	81.6326530612245	1.85420370840742	NA	No	> 3 months ago
+U815	Fall2019	yes	Female	19	Caucasian/white	70.2947845804989	1.6510033020066	NA	Yes	<=3 months ago
+U816	Fall2019	yes	Female	19	Middle Eastern or North African (MENA)	64.8526077097506	1.5240030480061	NA	No	> 3 months ago
+U817	Fall2019	yes	Female	19	Caucasian/white	52.1541950113379	1.6256032512065	NA	No	> 3 months ago
+U818	Fall2019	yes	Female	19	Caucasian/white	58.9569160997732	1.67640335280671	NA	Yes	<=3 months ago
+U819	Fall2019	yes	Female	19	2 or more ethnicities	56.6893424036281	1.6256032512065	NA	No	> 3 months ago
+U820	Fall2019	yes	Female	19	Asian	60.3174603174603	1.70180340360681	NA	No	> 3 months ago
+U821	Fall2019	yes	Female	19	Asian	59.8639455782313	1.6256032512065	NA	Yes	<=3 months ago
+U822	Fall2019	yes	Male	20	Caucasian/white	78.4580498866213	1.93040386080772	NA	No	> 3 months ago
+U823	Fall2019	yes	Male	20	Asian	73.9229024943311	1.77800355600711	NA	No	> 3 months ago
+U824	Fall2019	yes	Male	26	Black American	104.308390022676	1.90500381000762	NA	unknown	> 3 months ago
+U825	Fall2019	yes	Female	20	Asian	67.1201814058957	1.72720345440691	NA	No	> 3 months ago
+U826	Fall2019	yes	Female	20	Asian	63.4920634920635	1.69545339090678	NA	No	> 3 months ago
+U827	Fall2019	yes	Male	19	Caucasian/white	68.0272108843537	1.80340360680721	NA	Yes	> 3 months ago
+U828	Fall2019	yes	Male	18	Middle Eastern or North African (MENA)	79.8185941043084	1.70180340360681	NA	Yes	> 3 months ago
+U829	Fall2019	yes	Female	20	Asian	42.1768707482993	1.6002032004064	NA	No	> 3 months ago
+U830	Fall2019	yes	Female	20	Asian	68.9342403628118	1.77800355600711	NA	Yes	> 3 months ago
+U831	Fall2019	yes	Female	19	Caucasian/white	63.4920634920635	1.70180340360681	NA	unknown	> 3 months ago
+U832	Fall2019	yes	Male	18	Asian	79.3650793650794	1.82880365760732	NA	No	> 3 months ago
+U833	Fall2019	yes	Male	19	2 or more ethnicities	70.2947845804989	1.77800355600711	NA	No	> 3 months ago
+U835	Fall2019	yes	Male	18	Caucasian/white	88.4353741496599	1.87960375920752	NA	No	> 3 months ago
+U835	Fall2019	yes	Male	18	Caucasian/white	88.4353741496599	1.87960375920752	NA	No	> 3 months ago
+U835	Fall2019	yes	Male	18	Caucasian/white	88.4353741496599	1.87960375920752	NA	No	> 3 months ago
+U835	Fall2019	yes	Male	18	Caucasian/white	88.4353741496599	1.87960375920752	NA	No	> 3 months ago
+U836	Fall2019	yes	Female	19	2 or more ethnicities	65.7596371882086	1.6510033020066	NA	No	> 3 months ago
+U837	Fall2019	yes	Female	21	Caucasian/white	56.6893424036281	1.70180340360681	NA	No	> 3 months ago
+U838	Fall2019	yes	Male	19	Caucasian/white	86.1678004535147	1.90500381000762	NA	Yes	<=3 months ago
+U838	Fall2019	yes	Male	19	Caucasian/white	86.1678004535147	1.90500381000762	NA	Yes	<=3 months ago
+U838	Fall2019	yes	Male	19	Caucasian/white	86.1678004535147	1.90500381000762	NA	Yes	<=3 months ago
+U838	Fall2019	yes	Male	19	Caucasian/white	86.1678004535147	1.90500381000762	NA	Yes	<=3 months ago
+U839	Fall2019	yes	Male	18	Caucasian/white	68.0272108843537	1.75260350520701	NA	Yes	<=3 months ago
+U840	Fall2019	yes	Female	18	Caucasian/white	58.9569160997732	1.5748031496063	NA	No	> 3 months ago
+U841	Fall2019	yes	Male	19	Caucasian/white	90.702947845805	1.87960375920752	NA	No	> 3 months ago
+U842	Fall2019	yes	Female	20	Caucasian/white	58.9569160997732	1.6256032512065	NA	No	> 3 months ago
+U844	Fall2019	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U845	Fall2019	yes	Female	20	Caucasian/white	54.421768707483	1.5748031496063	NA	No	> 3 months ago
+U846	Fall2019	yes	Female	20	Middle Eastern or North African (MENA)	61.2244897959184	1.70180340360681	NA	No	> 3 months ago
+U847	Fall2019	yes	Female	19	Caucasian/white	65.7596371882086	1.6256032512065	NA	Yes	> 3 months ago
+U848	Fall2019	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U849	Fall2019	yes	Female	21	Caucasian/white	56.6893424036281	1.6510033020066	NA	No	> 3 months ago
+U850	Fall2019	yes	Female	18	Asian	63.4920634920635	1.6510033020066	NA	No	> 3 months ago
+U851	Fall2019	yes	Female	19	Caucasian/white	79.3650793650794	1.70180340360681	NA	No	> 3 months ago
+U852	Fall2019	yes	Male	18	Asian	69.8412698412698	1.70180340360681	NA	No	> 3 months ago
+U854	Fall2019	yes	Female	20	Caucasian/white	54.421768707483	1.6510033020066	NA	Yes	<=3 months ago
+U855	Fall2019	yes	Female	18	Middle Eastern or North African (MENA)	58.9569160997732	1.6002032004064	NA	No	> 3 months ago
+U858	Fall2019	yes	Female	20	Middle Eastern or North African (MENA)	58.9569160997732	1.6002032004064	NA	No	> 3 months ago
+U859	Fall2019	yes	Female	18	2 or more ethnicities	56.6893424036281	1.5748031496063	NA	No	> 3 months ago
+U861	Fall2019	yes	Male	18	Caucasian/white	70.2947845804989	1.77800355600711	NA	Yes	<=3 months ago
+U862	Fall2019	yes	Male	19	Caucasian/white	78.4580498866213	1.93040386080772	NA	No	> 3 months ago
+U863	Fall2019	yes	Male	18	Caucasian/white	61.2244897959184	1.77800355600711	NA	Yes	<=3 months ago
+U864	Fall2019	yes	Female	19	Asian	58.5034013605442	1.6510033020066	NA	Yes	> 3 months ago
+U866	Fall2019	yes	Female	20	Asian	63.4920634920635	1.67640335280671	NA	Yes	> 3 months ago
+U867	Fall2019	yes	Female	19	Middle Eastern or North African (MENA)	52.1541950113379	1.5748031496063	NA	No	> 3 months ago
+U868	Fall2019	yes	Female	18	Asian	57.1428571428571	1.5240030480061	NA	No	> 3 months ago
+U869	Fall2019	yes	Female	19	Caucasian/white	54.421768707483	1.70180340360681	NA	Yes	<=3 months ago
+U870	Fall2019	yes	Male	19	Caucasian/white	78.0045351473923	1.90500381000762	NA	No	> 3 months ago
+U871	Fall2019	yes	Male	20	Asian	58.5034013605442	1.67640335280671	NA	No	> 3 months ago
+U872	Fall2019	yes	Male	19	Caucasian/white	70.2947845804989	1.77800355600711	NA	Yes	> 3 months ago
+U873	Fall2019	yes	Female	21	Black American	53.968253968254	1.6256032512065	NA	No	> 3 months ago
+U875	Fall2019	yes	NA	NA	NA	NA	NA	NA	unknown	unknown
+U876	Fall2019	yes	Female	20	Asian	61.2244897959184	1.72720345440691	NA	No	> 3 months ago
+U877	Fall2019	yes	Female	18	2 or more ethnicities	47.6190476190476	1.70180340360681	NA	Yes	<=3 months ago
+U879	Fall2019	yes	Female	18	Caucasian/white	58.9569160997732	1.5748031496063	NA	No	> 3 months ago
+U880	Fall2019	yes	Female	19	Caucasian/white	67.1201814058957	1.67640335280671	NA	No	> 3 months ago
+U881	Fall2019	yes	Female	20	Middle Eastern or North African (MENA)	58.9569160997732	1.6256032512065	NA	No	> 3 months ago
+U882	Fall2019	yes	Female	19	Asian	55.328798185941	1.6002032004064	NA	No	> 3 months ago
+U883	Fall2019	yes	Female	18	Asian	58.0498866213152	1.71450342900686	NA	No	> 3 months ago
+U884	Fall2019	yes	Male	22	Asian	58.5034013605442	1.6256032512065	NA	Yes	> 3 months ago
+U885	Fall2019	yes	Male	18	2 or more ethnicities	63.4920634920635	1.70180340360681	NA	No	> 3 months ago
+U886	Fall2019	yes	Female	19	Latinx or Hispanic	57.1428571428571	1.5240030480061	NA	Yes	> 3 months ago
+U887	Fall2019	yes	Male	19	2 or more ethnicities	97.5056689342404	1.90500381000762	NA	unknown	> 3 months ago
+U888	Fall2019	yes	Female	19	Asian	47.6190476190476	1.67640335280671	NA	No	> 3 months ago
+U889	Fall2019	yes	Male	20	Middle Eastern or North African (MENA)	63.4920634920635	1.72720345440691	NA	Yes	<=3 months ago
+U890	Fall2019	yes	Female	18	Caucasian/white	56.6893424036281	1.67640335280671	NA	No	> 3 months ago
+U891	Fall2019	yes	Female	19	Asian	61.6780045351474	1.6510033020066	NA	Yes	> 3 months ago
+U892	Fall2019	yes	Female	19	Middle Eastern or North African (MENA)	86.1678004535147	1.80340360680721	NA	Yes	<=3 months ago
+U893	Fall2019	yes	Female	20	Caucasian/white	63.4920634920635	1.6510033020066	NA	No	> 3 months ago
+U894	Fall2019	yes	Male	20	Middle Eastern or North African (MENA)	86.1678004535147	1.72720345440691	NA	unknown	> 3 months ago
+U895	Fall2019	yes	Female	20	Latinx or Hispanic	79.3650793650794	1.70180340360681	NA	No	> 3 months ago
+U896	Fall2019	yes	Female	18	Asian	54.421768707483	1.5748031496063	NA	No	> 3 months ago
+U897	Fall2019	yes	Female	19	Middle Eastern or North African (MENA)	54.421768707483	1.6002032004064	NA	Yes	<=3 months ago
+U898	Fall2019	yes	Male	18	2 or more ethnicities	52.1541950113379	1.75260350520701	NA	Yes	<=3 months ago
+U899	Fall2019	yes	Female	19	Caucasian/white	61.2244897959184	1.67640335280671	NA	Yes	<=3 months ago
